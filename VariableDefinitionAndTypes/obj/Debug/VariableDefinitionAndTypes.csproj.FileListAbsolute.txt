@@ -1,0 +1,6 @@
+C:\Users\savas\RiderProjects\VariableDefinitionAndTypes\VariableDefinitionAndTypes\bin\Debug\VariableDefinitionAndTypes.exe
+C:\Users\savas\RiderProjects\VariableDefinitionAndTypes\VariableDefinitionAndTypes\bin\Debug\VariableDefinitionAndTypes.pdb
+C:\Users\savas\RiderProjects\VariableDefinitionAndTypes\VariableDefinitionAndTypes\obj\Debug\VariableDefinitionAndTypes.csproj.AssemblyReference.cache
+C:\Users\savas\RiderProjects\VariableDefinitionAndTypes\VariableDefinitionAndTypes\obj\Debug\VariableDefinitionAndTypes.csproj.CoreCompileInputs.cache
+C:\Users\savas\RiderProjects\VariableDefinitionAndTypes\VariableDefinitionAndTypes\obj\Debug\VariableDefinitionAndTypes.exe
+C:\Users\savas\RiderProjects\VariableDefinitionAndTypes\VariableDefinitionAndTypes\obj\Debug\VariableDefinitionAndTypes.pdb
